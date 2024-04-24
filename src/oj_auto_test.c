@@ -12,7 +12,7 @@
 
  the input argc are format like `data.exe`, abs path like "C:\\Users\\administrator\\a.exe"
  are not supported.
- 
+
 
  compile command: (deploy)
  gcc oj_auto_test.c -o oj_auto_test.exe

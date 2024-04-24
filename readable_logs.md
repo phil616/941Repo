@@ -21,8 +21,8 @@ remote code repo cannot find the executable file aka exe file due to the .ignore
 ## linear list
 
 1. reverse linked list
-2. Josephus permutation
-3. merge linked list
+2. Josephus permutation SOLVED
+3. merge linked list SOLVED
 4. order a list
 5. expressions +-*/
 6. hash map
