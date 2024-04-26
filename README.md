@@ -45,3 +45,8 @@ Thread model: win32
 gcc version 6.3.0 (MinGW.org GCC-6.3.0-1)
 ```
 
+## notice
+
+C99 standard lib string.h has been banned.
+
+annotations are required when writing and coding
