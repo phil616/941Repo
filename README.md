@@ -56,3 +56,10 @@ gcc version 6.3.0 (MinGW.org GCC-6.3.0-1)
 6. graph
 7. sort
 8. search
+
+## notice
+
+C99 standard lib string.h has been banned.
+
+annotations are required when writing and coding
+

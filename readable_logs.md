@@ -39,3 +39,6 @@ remote code repo cannot find the executable file aka exe file due to the .ignore
 # unsolved
 
 * in linked list which exist a head (aka sentinel) , if I'd like to delete entire linked list, how to delete head, use **ptr or others
+
+question above solved, paper doesn't care the details and others. the way to express algorithm and step is more important.
+
