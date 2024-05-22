@@ -42,3 +42,14 @@ remote code repo cannot find the executable file aka exe file due to the .ignore
 
 question above solved, paper doesn't care the details and others. the way to express algorithm and step is more important.
 
+# task update
+
+1. queue
+2. cicle queue
+3. string /match
+4. KMP
+5. array and nD array /compress, restore
+6. cross array
+7. bin tree
+8. search balanced tree AVL B+ 
+9. heap
