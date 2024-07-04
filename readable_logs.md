@@ -53,3 +53,4 @@ question above solved, paper doesn't care the details and others. the way to exp
 7. bin tree
 8. search balanced tree AVL B+ 
 9. heap
+ 

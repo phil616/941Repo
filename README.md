@@ -48,14 +48,23 @@ gcc version 6.3.0 (MinGW.org GCC-6.3.0-1)
 
 ## Chapters
 
-1. math
-2. intro
-3. list,stack,queue
-4. array,string
-5. tree,binaray tree
-6. graph
-7. sort
-8. search
+### Math
+
+### Introduction
+
+### List,Stack,Queue
+
+### Array,String
+
+### Tree,Binary Tree
+
+### Graph
+
+### Sort
+
+### Search
+
+
 
 ## notice
 
