@@ -2,6 +2,8 @@
 
 941 subjects:
 
+Refs: https://www.totuma.cn/algorithms/list/sequence.html
+
 1. data structure
 2. operating system
 3. computer network
